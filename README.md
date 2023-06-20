@@ -42,5 +42,5 @@ Config.AuthorizedRanks = {
 * es_extended
 * esx_vehicleshop 
 
-FiveM Forum Release:https://forum.cfx.re/t/release-esx-give-or-delete-car-to-owned-vehicle-database-plate-can-custom-or-random-spawn/1050821
+FiveM Forum Release:[https://forum.cfx.re/t/esx-givevehicle/5123393]
 
